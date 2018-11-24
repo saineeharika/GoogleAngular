@@ -1,9 +1,0 @@
-h2 {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-image: linear-gradient(red, yellow);
-    color: white;
-    text-align: center;
- }

@@ -3,13 +3,14 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { HeadercomponentComponent } from './headercomponent/headercomponent.component';
-import { FooterComponent } from './footer/footer.component';
+import { GooglePlacesDirective } from './google-places-directive';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeadercomponentComponent,
-    FooterComponent,
+    GooglePlacesDirective,
+   
   ],
   imports: [
     BrowserModule
