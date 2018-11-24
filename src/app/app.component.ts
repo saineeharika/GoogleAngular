@@ -6,7 +6,7 @@ import { Component, NgZone } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  public title = 'Places';
+  public title = 'YO YO Group';
   public addrKeys: string[];
   public addr: object;
   

@@ -5,11 +5,13 @@ import { AppComponent } from './app.component';
 import { HeadercomponentComponent } from './headercomponent/headercomponent.component';
 import { GooglePlacesDirective } from './google-places-directive';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     HeadercomponentComponent,
     GooglePlacesDirective,
+   
    
   ],
   imports: [
